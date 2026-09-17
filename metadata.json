@@ -1,0 +1,11 @@
+{
+  "name": "Driver Drowsiness Detection System",
+  "description": "Real-time driver fatigue detection app combining face landmark tracking, Eye Aspect Ratio (EAR) monitoring, and a simulated CNN-LSTM hybrid deep learning pipeline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
